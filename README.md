@@ -37,5 +37,5 @@
 
 ## 发布
 
-GitHub Pages发布源：`main`分支的仓库根目录`/`，`.nojekyll`用于直接发布静态文件。
+GitHub Pages发布源选择`GitHub Actions`。推送到`main`会运行`.github/workflows/pages.yml`，校验全部发布文件并部署静态网站。
 更新时先在本地完成解析与验证，再重新生成报告并同步发布。
