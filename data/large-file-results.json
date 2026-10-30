@@ -1,0 +1,899 @@
+[
+  {
+    "task": "CE2",
+    "load": "CCD",
+    "level": "DEM-20m",
+    "level_id": 325,
+    "product": "CE2_GRAS_DEM_20m_F018_21N135E_A",
+    "scope": "inventory",
+    "main_file": {
+      "id": "180117025431296",
+      "name": "CE2_GRAS_DEM_20m_F018_21N135E_A.tif",
+      "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_F018_21N135E_A.tif",
+      "path": "samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.tif",
+      "level_id": 325,
+      "task": "CE2",
+      "load": "CCD",
+      "level": "DEM-20m",
+      "product": "CE2_GRAS_DEM_20m_F018_21N135E_A",
+      "planned_bytes": 2348809712,
+      "catalogue_bytes": 2348809712,
+      "received_bytes": 2348809712,
+      "status": "downloaded",
+      "updated_at": "2026-10-28T08:32:41.322992+00:00",
+      "http_expected_bytes": 2348809712,
+      "remote_identity": {
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_F018_21N135E_A.tif",
+        "bytes": 2348809712,
+        "etag": "\"5d6078bb-8bfffdf0\"",
+        "last_modified": "Fri, 23 Aug 2019 23:37:31 GMT"
+      },
+      "range_start": 2340421632,
+      "range_end": 2348809711,
+      "chunk_attempt": 1,
+      "sha256": "571ba00bd338decaf2089e0dc0e703f9dd8f335ab776eaaa618ef23f5886c686",
+      "finished_at": "2026-10-28T08:32:41.322956+00:00",
+      "error": null
+    },
+    "sidecars": [
+      {
+        "id": "180119062512465",
+        "name": "CE2_GRAS_DEM_20m_F018_21N135E_A.tfw",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_F018_21N135E_A.tfw",
+        "path": "samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.tfw",
+        "level_id": 325,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DEM-20m",
+        "product": "CE2_GRAS_DEM_20m_F018_21N135E_A",
+        "planned_bytes": 68,
+        "catalogue_bytes": 68,
+        "received_bytes": 68,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T09:06:47.183561+00:00",
+        "http_expected_bytes": 68,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_F018_21N135E_A.tfw",
+          "bytes": 68,
+          "etag": "\"5d604edc-44\"",
+          "last_modified": "Fri, 23 Aug 2019 20:38:52 GMT"
+        },
+        "range_start": 0,
+        "range_end": 67,
+        "chunk_attempt": 1,
+        "sha256": "87129fe61171f875fa32e2216c0479a66d7a1ae4857e23552c403ea490fef654",
+        "finished_at": "2026-10-28T07:56:50.177673+00:00",
+        "error": null
+      },
+      {
+        "id": "180411073958659",
+        "name": "CE2_GRAS_DEM_20m_F018_21N135E_A.prj",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_F018_21N135E_A.prj",
+        "path": "samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.prj",
+        "level_id": 325,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DEM-20m",
+        "product": "CE2_GRAS_DEM_20m_F018_21N135E_A",
+        "planned_bytes": 508,
+        "catalogue_bytes": 508,
+        "received_bytes": 508,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:56.938905+00:00",
+        "http_expected_bytes": 508,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_F018_21N135E_A.prj",
+          "bytes": 508,
+          "etag": "\"5d606c3e-1fc\"",
+          "last_modified": "Fri, 23 Aug 2019 22:44:14 GMT"
+        },
+        "sha256": "e257b48d03711541058297bae3376b9125b991abc4b2397e7e5119fc80365d13",
+        "finished_at": "2026-10-28T07:56:56.938888+00:00",
+        "error": null
+      }
+    ],
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.tfw",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.prj",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.tif"
+    ],
+    "download_sha256_verified": "571ba00bd338decaf2089e0dc0e703f9dd8f335ab776eaaa618ef23f5886c686",
+    "sidecars_verified": [
+      "CE2_GRAS_DEM_20m_F018_21N135E_A.tfw",
+      "CE2_GRAS_DEM_20m_F018_21N135E_A.prj"
+    ],
+    "reader": "rasterio",
+    "status": "read_ok",
+    "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_F018_21N135E_A.tif",
+    "shape": [
+      1,
+      21822,
+      26864
+    ],
+    "dtypes": [
+      "float32"
+    ],
+    "crs": "LOCAL_CS[\"Geocoding information not available Projection Name = Lambert_Conformal_Conic_F018 Units = meters GeoT\",UNIT[\"unknown\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      20.0,
+      0.0,
+      -268650.0,
+      0.0,
+      -20.0,
+      221650.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "units": [
+      null
+    ],
+    "nodata": null,
+    "decoded_elements": 586226208,
+    "valid_elements": 586226208,
+    "full_data_range": [
+      -99999.0,
+      6246.04345703125
+    ],
+    "decoded_pixel_sha256": "4e079fab29a5c3fd1905f7acd6196b86374545814e958ca6e420abcfd01077d5",
+    "full_block_read": true,
+    "preview_shape": [
+      1300,
+      1600
+    ],
+    "description": [
+      null
+    ],
+    "preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/325/CE2_GRAS_DEM_20m_F018_21N135E_A.overview.png",
+      "scope": "full-image overview; native pixel aspect ratio retained; contrast stretched",
+      "size": [
+        1680,
+        1120
+      ],
+      "full_block_read": true
+    },
+    "detail_preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/325/CE2_GRAS_DEM_20m_F018_21N135E_A.details.png",
+      "scope": "three native pixel crops; each contrast stretched",
+      "windows": [
+        [
+          6332,
+          10527,
+          768,
+          768
+        ],
+        [
+          13048,
+          10527,
+          768,
+          768
+        ],
+        [
+          19764,
+          10527,
+          768,
+          768
+        ]
+      ],
+      "size": [
+        2100,
+        700
+      ]
+    },
+    "sidecar_crs": "PROJCS[\"Lambert_Conformal_Conic_2SP_F018\",GEOGCS[\"GCS_Moon_2000\",DATUM[\"D_Moon_2000\",SPHEROID[\"Moon_2000_IAU_IAG\",1737400,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],PARAMETER[\"central_meridian\",135],PARAMETER[\"standard_parallel_1\",21],PARAMETER[\"standard_parallel_2\",21],PARAMETER[\"Scale_Factor\",1],PARAMETER[\"latitude_of_origin\",21],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "visualization_note": "该DEM未声明NoData，但存在-99999疑似填充值；仅在预览中屏蔽该值并采用最近邻取样，原始像元及完整读取统计保留。高程物理单位仍需产品说明确认。",
+    "display_inferred_fill_value": -99999
+  },
+  {
+    "task": "CE2",
+    "load": "CCD",
+    "level": "DEM-20m",
+    "level_id": 325,
+    "product": "CE2_GRAS_DEM_20m_G008_07N045W_A",
+    "scope": "inventory",
+    "main_file": {
+      "id": "180211024956209",
+      "name": "CE2_GRAS_DEM_20m_G008_07N045W_A.tif",
+      "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_G008_07N045W_A.tif",
+      "path": "samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.tif",
+      "level_id": 325,
+      "task": "CE2",
+      "load": "CCD",
+      "level": "DEM-20m",
+      "product": "CE2_GRAS_DEM_20m_G008_07N045W_A",
+      "planned_bytes": 2356367078,
+      "catalogue_bytes": 2356367078,
+      "received_bytes": 2356367078,
+      "status": "downloaded",
+      "updated_at": "2026-10-28T08:41:15.696935+00:00",
+      "http_expected_bytes": 2356367078,
+      "remote_identity": {
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_G008_07N045W_A.tif",
+        "bytes": 2356367078,
+        "etag": "\"5d60664e-8c734ee6\"",
+        "last_modified": "Fri, 23 Aug 2019 22:18:54 GMT"
+      },
+      "range_start": 2348810240,
+      "range_end": 2356367077,
+      "chunk_attempt": 1,
+      "sha256": "4b57289dedf1c23d695e916cb4889461d927b458b67b4eaed74b634650af3186",
+      "finished_at": "2026-10-28T08:41:15.696908+00:00",
+      "error": null
+    },
+    "sidecars": [
+      {
+        "id": "180211024935425",
+        "name": "CE2_GRAS_DEM_20m_G008_07N045W_A.tfw",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_G008_07N045W_A.tfw",
+        "path": "samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.tfw",
+        "level_id": 325,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DEM-20m",
+        "product": "CE2_GRAS_DEM_20m_G008_07N045W_A",
+        "planned_bytes": 69,
+        "catalogue_bytes": 69,
+        "received_bytes": 69,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:49.525678+00:00",
+        "http_expected_bytes": 69,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_G008_07N045W_A.tfw",
+          "bytes": 69,
+          "etag": "\"5d60551c-45\"",
+          "last_modified": "Fri, 23 Aug 2019 21:05:32 GMT"
+        },
+        "sha256": "c53a9ed6f22738b7265e7620990c895b64bfa10a89dd821f23681ba3045e0353",
+        "finished_at": "2026-10-28T07:56:49.515523+00:00",
+        "error": null
+      },
+      {
+        "id": "180411073959048",
+        "name": "CE2_GRAS_DEM_20m_G008_07N045W_A.prj",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_G008_07N045W_A.prj",
+        "path": "samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.prj",
+        "level_id": 325,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DEM-20m",
+        "product": "CE2_GRAS_DEM_20m_G008_07N045W_A",
+        "planned_bytes": 362,
+        "catalogue_bytes": 362,
+        "received_bytes": 362,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:56.592170+00:00",
+        "http_expected_bytes": 362,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_G008_07N045W_A.prj",
+          "bytes": 362,
+          "etag": "\"5d607185-16a\"",
+          "last_modified": "Fri, 23 Aug 2019 23:06:45 GMT"
+        },
+        "range_start": 0,
+        "range_end": 361,
+        "chunk_attempt": 1,
+        "sha256": "ab1de2ca56318881f98ff213b0a1e5e9ed7dbf8b57a4b4db6e1a4b46fee5a2f4",
+        "finished_at": "2026-10-28T07:56:56.561139+00:00",
+        "error": null
+      }
+    ],
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.tfw",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.prj",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.tif"
+    ],
+    "download_sha256_verified": "4b57289dedf1c23d695e916cb4889461d927b458b67b4eaed74b634650af3186",
+    "sidecars_verified": [
+      "CE2_GRAS_DEM_20m_G008_07N045W_A.tfw",
+      "CE2_GRAS_DEM_20m_G008_07N045W_A.prj"
+    ],
+    "reader": "rasterio",
+    "status": "read_ok",
+    "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_G008_07N045W_A.tif",
+    "shape": [
+      1,
+      21482,
+      27288
+    ],
+    "dtypes": [
+      "float32"
+    ],
+    "crs": "PROJCS[\"Mercator_G001\",GEOGCS[\"GCS_Moon_2000\",DATUM[\"Moon_2000\",SPHEROID[\"Moon_2000_IAU_IAG\",1737400,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Mercator_1SP\"],PARAMETER[\"central_meridian\",0],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      20.0,
+      0.0,
+      -1627270.0,
+      0.0,
+      -20.0,
+      427630.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "units": [
+      null
+    ],
+    "nodata": -99999.0,
+    "decoded_elements": 586200816,
+    "valid_elements": 586200816,
+    "full_data_range": [
+      -3531.583740234375,
+      262.72308349609375
+    ],
+    "decoded_pixel_sha256": "e0916b0af9156eed2e4f847296e94f6675574e38effc3763490d897322003741",
+    "full_block_read": true,
+    "preview_shape": [
+      1260,
+      1600
+    ],
+    "description": [
+      null
+    ],
+    "preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/325/CE2_GRAS_DEM_20m_G008_07N045W_A.overview.png",
+      "scope": "full-image overview; native pixel aspect ratio retained; contrast stretched",
+      "size": [
+        1680,
+        1120
+      ],
+      "full_block_read": true
+    },
+    "detail_preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/325/CE2_GRAS_DEM_20m_G008_07N045W_A.details.png",
+      "scope": "three native pixel crops; each contrast stretched",
+      "windows": [
+        [
+          6438,
+          10357,
+          768,
+          768
+        ],
+        [
+          13260,
+          10357,
+          768,
+          768
+        ],
+        [
+          20082,
+          10357,
+          768,
+          768
+        ]
+      ],
+      "size": [
+        2100,
+        700
+      ]
+    },
+    "sidecar_crs": "PROJCS[\"Mercator_G008\",GEOGCS[\"GCS_Moon_2000\",DATUM[\"D_Moon_2000\",SPHEROID[\"Moon_2000_IAU_IAG\",1737400,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Mercator_2SP\"],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],PARAMETER[\"central_meridian\",0],PARAMETER[\"standard_parallel_1\",7],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+  },
+  {
+    "task": "CE2",
+    "load": "CCD",
+    "level": "DEM-20m",
+    "level_id": 325,
+    "product": "CE2_GRAS_DEM_20m_L003_63S105W_A",
+    "scope": "inventory",
+    "main_file": {
+      "id": "180117033646986",
+      "name": "CE2_GRAS_DEM_20m_L003_63S105W_A.tif",
+      "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_L003_63S105W_A.tif",
+      "path": "samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.tif",
+      "level_id": 325,
+      "task": "CE2",
+      "load": "CCD",
+      "level": "DEM-20m",
+      "product": "CE2_GRAS_DEM_20m_L003_63S105W_A",
+      "planned_bytes": 2367243309,
+      "catalogue_bytes": 2367243309,
+      "received_bytes": 2367243309,
+      "status": "downloaded",
+      "updated_at": "2026-10-28T09:06:47.003343+00:00",
+      "http_expected_bytes": 2367243309,
+      "remote_identity": {
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_L003_63S105W_A.tif",
+        "bytes": 2367243309,
+        "etag": "\"5d605082-8d19442d\"",
+        "last_modified": "Fri, 23 Aug 2019 20:45:54 GMT"
+      },
+      "range_start": 2365587456,
+      "range_end": 2367243308,
+      "chunk_attempt": 1,
+      "sha256": "42c3d10b12c6f0b9352f2a5308be77941307a3626af2fcaa93b0e47b458bae9a",
+      "finished_at": "2026-10-28T09:06:47.003311+00:00",
+      "error": null
+    },
+    "sidecars": [
+      {
+        "id": "180119062514938",
+        "name": "CE2_GRAS_DEM_20m_L003_63S105W_A.tfw",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_L003_63S105W_A.tfw",
+        "path": "samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.tfw",
+        "level_id": 325,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DEM-20m",
+        "product": "CE2_GRAS_DEM_20m_L003_63S105W_A",
+        "planned_bytes": 92,
+        "catalogue_bytes": 92,
+        "received_bytes": 92,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:52.015670+00:00",
+        "http_expected_bytes": 92,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_L003_63S105W_A.tfw",
+          "bytes": 92,
+          "etag": "\"5d607587-5c\"",
+          "last_modified": "Fri, 23 Aug 2019 23:23:51 GMT"
+        },
+        "range_start": 0,
+        "range_end": 91,
+        "chunk_attempt": 1,
+        "sha256": "f420cdae251570ce473256614f33f55ee3d5dd048dc59158eac51bc6f7993296",
+        "finished_at": "2026-10-28T07:56:52.015653+00:00",
+        "error": null
+      },
+      {
+        "id": "180411074002688",
+        "name": "CE2_GRAS_DEM_20m_L003_63S105W_A.prj",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_L003_63S105W_A.prj",
+        "path": "samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.prj",
+        "level_id": 325,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DEM-20m",
+        "product": "CE2_GRAS_DEM_20m_L003_63S105W_A",
+        "planned_bytes": 512,
+        "catalogue_bytes": 512,
+        "received_bytes": 512,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:58.276515+00:00",
+        "http_expected_bytes": 512,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DEM/CE2_GRAS_DEM_20m_L003_63S105W_A.prj",
+          "bytes": 512,
+          "etag": "\"5d605f6f-200\"",
+          "last_modified": "Fri, 23 Aug 2019 21:49:35 GMT"
+        },
+        "sha256": "4e3739e8cc51e2d755026623561adab18e544c558142b7798efc2aabfd93311f",
+        "finished_at": "2026-10-28T07:56:58.173947+00:00",
+        "error": null
+      }
+    ],
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.tfw",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.prj",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.tif"
+    ],
+    "download_sha256_verified": "42c3d10b12c6f0b9352f2a5308be77941307a3626af2fcaa93b0e47b458bae9a",
+    "sidecars_verified": [
+      "CE2_GRAS_DEM_20m_L003_63S105W_A.tfw",
+      "CE2_GRAS_DEM_20m_L003_63S105W_A.prj"
+    ],
+    "reader": "rasterio",
+    "status": "read_ok",
+    "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/325/CE2_GRAS_DEM_20m_L003_63S105W_A.tif",
+    "shape": [
+      1,
+      22633,
+      26096
+    ],
+    "dtypes": [
+      "float32"
+    ],
+    "crs": "LOCAL_CS[\"Geocoding information not available Projection Name = Lambert_Conformal_Conic_L003 Units = meters GeoT\",UNIT[\"unknown\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      20.0,
+      0.0,
+      -263390.7817318514,
+      0.0,
+      -20.0,
+      218604.18897062726,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "units": [
+      null
+    ],
+    "nodata": -3.4028234663852886e+38,
+    "decoded_elements": 590630768,
+    "valid_elements": 444061149,
+    "full_data_range": [
+      -6080.515625,
+      6521.0537109375
+    ],
+    "decoded_pixel_sha256": "af38535e06ae6d760d941dae8d7550b2473e2fa53cdb206aa4dab8c67f492963",
+    "full_block_read": true,
+    "preview_shape": [
+      1388,
+      1600
+    ],
+    "description": [
+      null
+    ],
+    "preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/325/CE2_GRAS_DEM_20m_L003_63S105W_A.overview.png",
+      "scope": "full-image overview; native pixel aspect ratio retained; contrast stretched",
+      "size": [
+        1680,
+        1120
+      ],
+      "full_block_read": true
+    },
+    "detail_preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/325/CE2_GRAS_DEM_20m_L003_63S105W_A.details.png",
+      "scope": "three native pixel crops; each contrast stretched",
+      "windows": [
+        [
+          6140,
+          10932,
+          768,
+          768
+        ],
+        [
+          12664,
+          10932,
+          768,
+          768
+        ],
+        [
+          19188,
+          10932,
+          768,
+          768
+        ]
+      ],
+      "size": [
+        2100,
+        700
+      ]
+    },
+    "sidecar_crs": "PROJCS[\"Lambert_Conformal_Conic_2SP_L003\",GEOGCS[\"GCS_Moon_2000\",DATUM[\"D_Moon_2000\",SPHEROID[\"Moon_2000_IAU_IAG\",1737400,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],PARAMETER[\"central_meridian\",-105],PARAMETER[\"standard_parallel_1\",-63],PARAMETER[\"standard_parallel_2\",-63],PARAMETER[\"Scale_Factor\",1],PARAMETER[\"latitude_of_origin\",-63],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+  },
+  {
+    "task": "CE2",
+    "load": "CCD",
+    "level": "DOM-7m",
+    "level_id": 322,
+    "product": "CE2_GRAS_DOM_07m_I216_24S056W_A",
+    "scope": "inventory",
+    "main_file": {
+      "id": "180129035846912",
+      "name": "CE2_GRAS_DOM_07m_I216_24S056W_A.tif",
+      "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE2_GRAS_DOM_07m_I216_24S056W_A.tif",
+      "path": "samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.tif",
+      "level_id": 322,
+      "task": "CE2",
+      "load": "CCD",
+      "level": "DOM-7m",
+      "product": "CE2_GRAS_DOM_07m_I216_24S056W_A",
+      "planned_bytes": 1014362684,
+      "catalogue_bytes": 1014362684,
+      "received_bytes": 1014362684,
+      "status": "downloaded",
+      "updated_at": "2026-10-28T08:03:55.731949+00:00",
+      "http_expected_bytes": 1014362684,
+      "remote_identity": {
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE2_GRAS_DOM_07m_I216_24S056W_A.tif",
+        "bytes": 1014362684,
+        "etag": "\"5d60c8c4-3c75f23c\"",
+        "last_modified": "Sat, 24 Aug 2019 05:19:00 GMT"
+      },
+      "range_start": 1006632960,
+      "range_end": 1014362683,
+      "chunk_attempt": 1,
+      "sha256": "7c4d118f5f3380b5777db0561c54c3b74105452e03b47888a261277234988dd5",
+      "finished_at": "2026-10-28T08:03:55.731892+00:00",
+      "error": null
+    },
+    "sidecars": [
+      {
+        "id": "180129035830352",
+        "name": "CE2_GRAS_DOM_07m_I216_24S056W_A.tfw",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE2_GRAS_DOM_07m_I216_24S056W_A.tfw",
+        "path": "samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.tfw",
+        "level_id": 322,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DOM-7m",
+        "product": "CE2_GRAS_DOM_07m_I216_24S056W_A",
+        "planned_bytes": 132,
+        "catalogue_bytes": 132,
+        "received_bytes": 132,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:53.586393+00:00",
+        "http_expected_bytes": 132,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE2_GRAS_DOM_07m_I216_24S056W_A.tfw",
+          "bytes": 132,
+          "etag": "\"5d60b6db-84\"",
+          "last_modified": "Sat, 24 Aug 2019 04:02:35 GMT"
+        },
+        "range_start": 0,
+        "range_end": 131,
+        "chunk_attempt": 1,
+        "sha256": "cbd59abd57c4efcc3a34d1494fd91cb159d3cf2a6333a9478acbd12aa569c0fd",
+        "finished_at": "2026-10-28T07:56:53.391070+00:00",
+        "error": null
+      },
+      {
+        "id": "180411073654149",
+        "name": "CE2_GRAS_DOM_07m_I216_24S056W_A.prj",
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE2_GRAS_DOM_07m_I216_24S056W_A.prj",
+        "path": "samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.prj",
+        "level_id": 322,
+        "task": "CE2",
+        "load": "CCD",
+        "level": "DOM-7m",
+        "product": "CE2_GRAS_DOM_07m_I216_24S056W_A",
+        "planned_bytes": 355,
+        "catalogue_bytes": 355,
+        "received_bytes": 355,
+        "status": "downloaded",
+        "updated_at": "2026-10-28T07:56:55.133380+00:00",
+        "http_expected_bytes": 355,
+        "remote_identity": {
+          "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE2_GRAS_DOM_07m_I216_24S056W_A.prj",
+          "bytes": 355,
+          "etag": "\"5d60f128-163\"",
+          "last_modified": "Sat, 24 Aug 2019 08:11:20 GMT"
+        },
+        "range_start": 0,
+        "range_end": 354,
+        "chunk_attempt": 1,
+        "sha256": "f175d8133c89ef5f23ae0314c37ff7d84bbccab98a3c9a8b658b2b84724b4cb7",
+        "finished_at": "2026-10-28T07:56:55.107647+00:00",
+        "error": null
+      }
+    ],
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.tfw",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.prj",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.tif"
+    ],
+    "download_sha256_verified": "7c4d118f5f3380b5777db0561c54c3b74105452e03b47888a261277234988dd5",
+    "sidecars_verified": [
+      "CE2_GRAS_DOM_07m_I216_24S056W_A.tfw",
+      "CE2_GRAS_DOM_07m_I216_24S056W_A.prj"
+    ],
+    "reader": "rasterio",
+    "status": "read_ok",
+    "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/322/CE2_GRAS_DOM_07m_I216_24S056W_A.tif",
+    "shape": [
+      1,
+      31239,
+      32455
+    ],
+    "dtypes": [
+      "uint8"
+    ],
+    "crs": "LOCAL_CS[\"Geocoding information not available Projection Name = Moon_Mecator Units = meters GeoTIFF Units = othe\",UNIT[\"unknown\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      7.0,
+      0.0,
+      -1698914.5,
+      0.0,
+      -7.0,
+      -607915.5,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "units": [
+      null
+    ],
+    "nodata": null,
+    "decoded_elements": 1013861745,
+    "valid_elements": 1013861745,
+    "full_data_range": [
+      31.0,
+      255.0
+    ],
+    "decoded_pixel_sha256": "49edbca64852a44d6da58bdf074e9a501590d3cbf4e45fea86d68463b8623d86",
+    "full_block_read": true,
+    "preview_shape": [
+      1540,
+      1600
+    ],
+    "description": [
+      null
+    ],
+    "preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/322/CE2_GRAS_DOM_07m_I216_24S056W_A.overview.png",
+      "scope": "full-image overview; native pixel aspect ratio retained; contrast stretched",
+      "size": [
+        1680,
+        1120
+      ],
+      "full_block_read": true
+    },
+    "detail_preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/322/CE2_GRAS_DOM_07m_I216_24S056W_A.details.png",
+      "scope": "three native pixel crops; each contrast stretched",
+      "windows": [
+        [
+          7729,
+          15235,
+          768,
+          768
+        ],
+        [
+          15843,
+          15235,
+          768,
+          768
+        ],
+        [
+          23957,
+          15235,
+          768,
+          768
+        ]
+      ],
+      "size": [
+        2100,
+        700
+      ]
+    },
+    "sidecar_crs": "PROJCS[\"Moon_Mecator\",GEOGCS[\"GCS_Moon_2000\",DATUM[\"D_Moon_2000\",SPHEROID[\"Moon_2000_IAU_IAG\",1737400,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Mercator_2SP\"],PARAMETER[\"standard_parallel_1\",-21],PARAMETER[\"central_meridian\",0],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+  },
+  {
+    "task": "CE1",
+    "load": "CCD",
+    "level": "DOM-120m",
+    "level_id": 288,
+    "product": "CE1_GRAS_DOM_120m_001_GLOBAL_A.rar",
+    "scope": "inventory",
+    "main_file": {
+      "id": "180411074010699",
+      "name": "CE1_GRAS_DOM_120m_001_GLOBAL_A.rar",
+      "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE1_GRAS_DOM_120m_001_GLOBAL_A.rar",
+      "path": "samples/288/CE1_GRAS_DOM_120m_001_GLOBAL_A.rar",
+      "level_id": 288,
+      "task": "CE1",
+      "load": "CCD",
+      "level": "DOM-120m",
+      "product": "CE1_GRAS_DOM_120m_001_GLOBAL_A.rar",
+      "planned_bytes": 1509666054,
+      "catalogue_bytes": 4477503406,
+      "received_bytes": 1509666054,
+      "status": "downloaded",
+      "updated_at": "2026-10-28T08:08:39.133854+00:00",
+      "http_expected_bytes": 1509666054,
+      "remote_identity": {
+        "url": "https://moon.bao.ac.cn/PUBDATA/CCD/IMAGE/DOM/CE1_GRAS_DOM_120m_001_GLOBAL_A.rar",
+        "bytes": 1509666054,
+        "etag": "\"5d60a840-59fbad06\"",
+        "last_modified": "Sat, 24 Aug 2019 03:00:16 GMT"
+      },
+      "range_start": 1501560832,
+      "range_end": 1509666053,
+      "chunk_attempt": 1,
+      "sha256": "c1b2c8ba44ef2f8c627bd3dabb0355b23a274491ddd6223a76a0988b307c5d97",
+      "finished_at": "2026-10-28T08:08:39.133788+00:00",
+      "error": null
+    },
+    "sidecars": [],
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/288/CE1_GRAS_DOM_120m_001_GLOBAL_A.rar"
+    ],
+    "download_sha256_verified": "c1b2c8ba44ef2f8c627bd3dabb0355b23a274491ddd6223a76a0988b307c5d97",
+    "sidecars_verified": [],
+    "reader": "libarchive+rasterio",
+    "archive_entries": [
+      {
+        "name": "global-DOM-SC-扩展16.tif.xml",
+        "bytes": 8076,
+        "extraction": "complete"
+      },
+      {
+        "name": "global-DOM-SC-扩展16.aux",
+        "bytes": 10845,
+        "extraction": "complete"
+      },
+      {
+        "name": "global-DOM-SC-扩展16.rrd",
+        "bytes": 347683786,
+        "extraction": "optional overview omitted"
+      },
+      {
+        "name": "global-DOM-SC-扩展16.tfw",
+        "bytes": 222,
+        "extraction": "complete"
+      },
+      {
+        "name": "global-DOM-SC-扩展16.tif",
+        "bytes": 4140091271,
+        "extraction": "complete"
+      }
+    ],
+    "decoded_members": [
+      {
+        "reader": "rasterio",
+        "status": "read_ok",
+        "path": "/tmp/moondata-large-parse-gvco6fwh/global-DOM-SC-扩展16.tif",
+        "shape": [
+          1,
+          45486,
+          91003
+        ],
+        "dtypes": [
+          "uint8"
+        ],
+        "crs": "ESRI:103881",
+        "transform": [
+          120.0,
+          0.0,
+          -5460010.044012,
+          0.0,
+          -120.0,
+          2729171.5002,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "units": [
+          null
+        ],
+        "nodata": null,
+        "decoded_elements": 4139362458,
+        "valid_elements": 4139362458,
+        "full_data_range": [
+          0.0,
+          255.0
+        ],
+        "decoded_pixel_sha256": "694dc36be37cc8d82dd33a5b1e5ff066ffd632146b7bce941399970d402c6a7c",
+        "full_block_read": true,
+        "preview_shape": [
+          800,
+          1600
+        ],
+        "description": [
+          "Band_1"
+        ],
+        "archive_member": "global-DOM-SC-扩展16.tif",
+        "preview": {
+          "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/288/CE1_GRAS_DOM_120m_001_GLOBAL_A.rar.overview.png",
+          "scope": "full-image overview; native pixel aspect ratio retained; contrast stretched",
+          "size": [
+            1680,
+            840
+          ],
+          "full_block_read": true
+        },
+        "detail_preview": {
+          "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/288/CE1_GRAS_DOM_120m_001_GLOBAL_A.rar.details.png",
+          "scope": "three native pixel crops; each contrast stretched",
+          "windows": [
+            [
+              22366,
+              22359,
+              768,
+              768
+            ],
+            [
+              45117,
+              22359,
+              768,
+              768
+            ],
+            [
+              67868,
+              22359,
+              768,
+              768
+            ]
+          ],
+          "size": [
+            2100,
+            700
+          ]
+        }
+      }
+    ],
+    "status": "read_ok"
+  }
+]

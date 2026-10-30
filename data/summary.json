@@ -1,0 +1,58 @@
+{
+  "tool": "/mnt/netdisk2/spatial-xush/Chang-e-PDS-Data-processing",
+  "tool_sha256": "4c15f5a97746568d1069cf521f9170e26451ad894aa19a2dba1cb7ca8b6d3cfa",
+  "category_count": 83,
+  "inventory_cli": {
+    "format_out_of_scope": 187,
+    "export_ok": 18,
+    "cli_rejected": 30
+  },
+  "inventory_data_reading": {
+    "partial_read": 26,
+    "format_reader_ok": 176,
+    "content_anomaly": 1,
+    "needs_format_spec": 10,
+    "pds4_read_ok": 22
+  },
+  "supplementary_cli": {
+    "export_ok": 3
+  },
+  "supplementary_data_reading": {
+    "pds4_read_ok": 3
+  },
+  "earlier_extras": {},
+  "earlier_extra_reading": {},
+  "reader_statuses": {
+    "partial_read": 26,
+    "read_ok": 201,
+    "content_anomaly": 1,
+    "needs_format_spec": 10
+  },
+  "memory_probes": [
+    {
+      "level_id": 371,
+      "product": "CE4_GRAS_LFRS-TR_SCI_P_20220601160000_20220602040000_0248_B.2C",
+      "memory_limit_GiB": 32,
+      "reader": "pds4-tools 1.4, original unmodified label",
+      "status": "read_error",
+      "error": "ValueError: Unable to convert field 'Science Data' to data_type 'IEEE754MSBSingle': 'buffer size must be a multiple of element size'"
+    },
+    {
+      "level_id": 371,
+      "product": "CE4_GRAS_LFRS-TR_SCI_P_20220531160000_20220601040000_0247_B.2C",
+      "memory_limit_GiB": 32,
+      "reader": "pds4-tools 1.4, original unmodified label",
+      "status": "read_error",
+      "error": "ValueError: Unable to convert field 'Science Data' to data_type 'IEEE754MSBSingle': 'buffer size must be a multiple of element size'"
+    },
+    {
+      "level_id": 371,
+      "product": "CE4_GRAS_LFRS-TR_SCI_P_20220530160000_20220531040000_0246_B.2C",
+      "memory_limit_GiB": 32,
+      "reader": "pds4-tools 1.4, original unmodified label",
+      "status": "read_error",
+      "error": "ValueError: Unable to convert field 'Science Data' to data_type 'IEEE754MSBSingle': 'buffer size must be a multiple of element size'"
+    }
+  ],
+  "export_scope": "Current CLI: full-resolution PNG+histograms. Other readers: downsampled image previews or first 1000 table rows; full payloads loaded, physical calibration not independently validated."
+}

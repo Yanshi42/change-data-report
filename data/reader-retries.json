@@ -1,0 +1,98 @@
+[
+  {
+    "task": "CE2",
+    "load": "CCD",
+    "level": "DOM-20m",
+    "level_id": 323,
+    "product": "CE2_GRAS_DOM_20m_E009_35N010W_A",
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_E009_35N010W_A.prj",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_E009_35N010W_A.tif",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_E009_35N010W_A.tfw"
+    ],
+    "scope": "inventory",
+    "reader": "rasterio",
+    "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_E009_35N010W_A.tif",
+    "status": "read_ok",
+    "shape": [
+      1,
+      22049,
+      27126
+    ],
+    "dtypes": [
+      "uint8"
+    ],
+    "crs": "LOCAL_CS[\"Geocoding information not available Projection Name = Lambert_Conformal_Conic_E009 Units = meters GeoT\",UNIT[\"unknown\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      20.0,
+      0.0,
+      -271270.0,
+      0.0,
+      -20.0,
+      226190.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "decoded_elements": 598101174,
+    "decoded_pixel_sha256": "180554d3292a09f77860f86ff5562289e1055da165f965f8b25951ef21040ffc",
+    "preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/323/CE2_GRAS_DOM_20m_E009_35N010W_A.png",
+      "scope": "downsampled contrast-stretched preview; no CFA reconstruction",
+      "size": [
+        1000,
+        1000
+      ]
+    },
+    "staged_for_io": true,
+    "previous_attempt_error": "TimeoutExpired: Command '['/tmp/moondata-parse-env/bin/python', '/mnt/netdisk2/spatial-xush/Chang-e-PDS-Data-processing/audit_readers.py', '--worker', '/tmp/tmpi6d57bta.json']' timed out after 180 seconds"
+  },
+  {
+    "task": "CE2",
+    "load": "CCD",
+    "level": "DOM-20m",
+    "level_id": 323,
+    "product": "CE2_GRAS_DOM_20m_K013_49S120E_A",
+    "paths": [
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_K013_49S120E_A.tfw",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_K013_49S120E_A.tif",
+      "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_K013_49S120E_A.prj"
+    ],
+    "scope": "inventory",
+    "reader": "rasterio",
+    "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/samples/323/CE2_GRAS_DOM_20m_K013_49S120E_A.tif",
+    "status": "read_ok",
+    "shape": [
+      1,
+      22241,
+      27239
+    ],
+    "dtypes": [
+      "uint8"
+    ],
+    "crs": "LOCAL_CS[\"Geocoding information not available Projection Name = Lambert_Conformal_Conic_K013 Units = meters GeoT\",UNIT[\"unknown\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      20.0,
+      0.0,
+      -272390.0,
+      0.0,
+      -20.0,
+      214310.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "decoded_elements": 605822599,
+    "decoded_pixel_sha256": "9bee996e7e589033c1c13021179a1a1145693240d3ce4e7299d33fd067de1dd8",
+    "preview": {
+      "path": "/mnt/netdisk2/spatial-xush/change-viewer/validation/moondata/chang-e-pds-cli-audit/reader-exports/323/CE2_GRAS_DOM_20m_K013_49S120E_A.png",
+      "scope": "downsampled contrast-stretched preview; no CFA reconstruction",
+      "size": [
+        1000,
+        1000
+      ]
+    },
+    "staged_for_io": true,
+    "previous_attempt_error": "TimeoutExpired: Command '['/tmp/moondata-parse-env/bin/python', '/mnt/netdisk2/spatial-xush/Chang-e-PDS-Data-processing/audit_readers.py', '--worker', '/tmp/tmpp5dztlsr.json']' timed out after 180 seconds"
+  }
+]
